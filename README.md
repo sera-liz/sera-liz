@@ -1,4 +1,4 @@
-               # 💖 Welcome to My Digital Space
+ # 💖 Welcome to My Digital Space
 
 Hey there! I'm <a href="https://www.linkedin.com/in/sera-liz-david-6842a8327">Sera</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"> — a curious, creative, and confident Computer Science student with a heart for building meaningful tech. I love exploring the world of **Cybersecurity**, crafting beautiful **User Interfaces**, and bringing stories to life through **Game Development**.
 ---   
