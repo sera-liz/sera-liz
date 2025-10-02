@@ -62,7 +62,7 @@ I build projects with a triple focus: **Cybersecurity** 🛡️, beautiful **Use
 
 ### 📊 Contribution Graph
 <div align="center">
-    [![Sera's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sera-liz&theme=light&height=300)
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sera-liz&theme=rose_pine&height=300" alt="Sera's GitHub activity graph"/>
 </div>
 
 ---
