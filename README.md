@@ -40,13 +40,14 @@ I build projects with a triple focus: **Cybersecurity** 🛡️, beautiful **Use
 
 ## 🌟 Projects I’m Proud Of
 
+## 🌟 Projects I’m Proud Of
+
 | Project Type | Technologies Used | Description | Repository |
 | :--- | :--- | :--- | :---: |
-| 🎮 **Interactive Game** | Python + Pygame | Where pixels meet purpose, exploring game design principles. | - |
-| 🔐 **Cybersecurity Toolkit** | Python | A collection of scripts and tools built to explore ethical hacking and digital safety. | - |
-| 🎨 **UI/UX Portfolio** | Figma + HTML/CSS | My clean, human-centered design work from wireframes to front-end code. | - |
-| 📊 **Data Science Notebooks** | Pandas, Sklearn, Matplotlib | Solving real problems using advanced analysis and visualization techniques. | - |
-
+| 🌐 **Web Development** | HTML/CSS | **SAIKET-SYSTEMS:** Building foundational architecture for web solutions. 🏗️ | - |
+| 🔐 **Cybersecurity Toolkit** | Python | A collection of scripts and tools built to explore ethical hacking and digital safety. 🛡️ | - |
+| 🎨 **UI/UX Portfolio** | Figma + HTML/CSS | My clean, human-centered design work from wireframes to front-end code. 💡 | - |
+| 📊 **Data Science Notebooks** | Pandas, Sklearn, Matplotlib | Solving real problems using advanced analysis and visualization techniques. 📈 | - |
 ---
 
 ## 🌸 Sera's GitHub Insights
