@@ -1,21 +1,8 @@
 # 💖 The Digital Space of Sera Liz David: Code. Create. Conquer.
 
-Hey there! I'm **Sera Liz David** <a href="https://www.linkedin.com/in/sera-liz-david-6842a8327"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"></a> — a curious, creative, and confident Computer Science student, currently thriving as a **Web Development Intern** at **SaiKet Systems** 💻.
+Hey there! I'm **Sera Liz David** <a href="https://www.linkedin.com/in/sera-liz-david-6842a8327"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"></a> — a curious, creative, and confident Computer Science student with a passion for building **meaningful tech**.
 
-I build **meaningful tech** with a triple focus: **Cybersecurity** 🛡️, beautiful **User Interfaces** 🎨, and purposeful **Game Development** 🎮.
-
----
-
-## 🌟 Currently Elevating & Excelling
-
-### 🚀 Web Development Intern at **SaiKet Systems**
-
-Thrilled to be contributing as a **Web Development Intern** at SaiKet Systems. My focus is on crafting user-friendly and visually appealing web interfaces by applying expertise in various web technologies and design principles to drive the company's online presence forward.
-
-| Focus Area | Description |
-| :--- | :--- |
-| **Role Focus** | Web interfaces, innovative web solutions, and driving online presence. |
-| **Skills in Action** | Web technologies, programming languages, and design principles. |
+I build projects with a triple focus: **Cybersecurity** 🛡️, beautiful **User Interfaces** 🎨, and purposeful **Game Development** 🎮.
 
 ---
 
@@ -55,10 +42,10 @@ Thrilled to be contributing as a **Web Development Intern** at SaiKet Systems. M
 
 | Project Type | Technologies Used | Description | Repository |
 | :--- | :--- | :--- | :---: |
-| 🎮 **Interactive Game** | Python + Pygame | Where pixels meet purpose, exploring game design principles. | [Link Here](https://github.com/SERA-USERNAME) |
-| 🔐 **Cybersecurity Toolkit** | Python | A collection of scripts and tools built to explore ethical hacking and digital safety. | [Link Here](https://github.com/SERA-USERNAME) |
-| 🎨 **UI/UX Portfolio** | Figma + HTML/CSS | My clean, human-centered design work from wireframes to front-end code. | [Link Here](https://github.com/SERA-USERNAME) |
-| 📊 **Data Science Notebooks** | Pandas, Sklearn, Matplotlib | Solving real problems using advanced analysis and visualization techniques. | [Link Here](https://github.com/SERA-USERNAME/Data-Science) |
+| 🎮 **Interactive Game** | Python + Pygame | Where pixels meet purpose, exploring game design principles. | - |
+| 🔐 **Cybersecurity Toolkit** | Python | A collection of scripts and tools built to explore ethical hacking and digital safety. | - |
+| 🎨 **UI/UX Portfolio** | Figma + HTML/CSS | My clean, human-centered design work from wireframes to front-end code. | - |
+| 📊 **Data Science Notebooks** | Pandas, Sklearn, Matplotlib | Solving real problems using advanced analysis and visualization techniques. | - |
 
 ---
 
@@ -107,5 +94,3 @@ Thrilled to be contributing as a **Web Development Intern** at SaiKet Systems. M
 </div>
 
 > 📝 **“She who dares, codes. Create like an artist. Solve like a queen.”**
-
-> 📝 *Code like a girl. Create like an artist. **Solve like a queen.***
