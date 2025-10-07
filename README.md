@@ -38,32 +38,32 @@ I build projects with a triple focus: **Cybersecurity** 🛡️, beautiful **Use
 
 ---
 
-
-
 ## 🌟 Projects I’m Proud Of
 
 | Project Type | Technologies Used | Description | Repository |
 | :--- | :--- | :--- | :---: |
+| 🚀 **ML/Hackathon Project** | Python, Streamlit, LightGBM, SHAP | **Exoplanet Classifier:** A robust dual-interface app (Streamlit UI & CLI fallback) for classifying celestial bodies. 🪐 | - |
 | 🌐 **Web Development** | HTML/CSS | **SAIKET-SYSTEMS:** Building foundational architecture for web solutions. 🏗️ | - |
 | 🔐 **Cybersecurity Toolkit** | Python | A collection of scripts and tools built to explore ethical hacking and digital safety. 🛡️ | - |
 | 🎨 **UI/UX Portfolio** | Figma + HTML/CSS | My clean, human-centered design work from wireframes to front-end code. 💡 | - |
 | 📊 **Data Science Notebooks** | Pandas, Sklearn, Matplotlib | Solving real problems using advanced analysis and visualization techniques. 📈 | - |
+
 ---
 
 ## 🌸 Sera's GitHub Insights
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sera-liz&show_icons=true&theme=rose_pine" alt="GitHub Stats" width="49%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sera-liz&layout=compact&theme=rose_pine" alt="Top Languages" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sera-liz&show_icons=true&theme=rose_pine" alt="GitHub Stats" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sera-liz&layout=compact&theme=rose_pine" alt="Top Languages" width="49%"/>
 </p>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=sera-liz&theme=rose_pine" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=sera-liz&theme=rose_pine" alt="GitHub Streak"/>
 </p>
 
 ### 📊 Contribution Graph
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sera-liz&theme=rose_pine&height=300" alt="Sera's GitHub activity graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sera-liz&theme=rose_pine&height=300" alt="Sera's GitHub activity graph"/>
 </div>
 
 ---
@@ -71,12 +71,12 @@ I build projects with a triple focus: **Cybersecurity** 🛡️, beautiful **Use
 ## Final Aesthetic
 
 <div align="center">
-    <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="300"/>
-    <br>
-    
-    **💡 My Philosophy:** I believe tech should be **beautiful & accessible** for everyone.
-    <br>
-    **🧠 My Approach:** I see bugs as **puzzles**, not problems, and enjoy the challenge of debugging.
+    <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="300"/>
+    <br>
+    
+    **💡 My Philosophy:** I believe tech should be **beautiful & accessible** for everyone.
+    <br>
+    **🧠 My Approach:** I see bugs as **puzzles**, not problems, and enjoy the challenge of debugging.
 </div>
 
 ---
@@ -84,8 +84,8 @@ I build projects with a triple focus: **Cybersecurity** 🛡️, beautiful **Use
 ## 💌 Let’s Connect!
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=sera-liz&label=Profile%20views&color=ffb6c1&style=flat" alt="SERA profile views" />
-    <br>
+    <img src="https://komarev.com/ghpvc/?username=sera-liz&label=Profile%20views&color=ffb6c1&style=flat" alt="SERA profile views" />
+    <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sera-liz-david-6842a8327)
 [![GitHub](https://img.shields.io/badge/GitHub-F4A7B9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sera-liz)
