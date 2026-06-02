@@ -97,8 +97,6 @@ I am seeking opportunities where I can apply my technical knowledge, gain practi
 
 <div align="center">
 
-Feel free to connect with me for collaborations, learning, and technology discussions.
-
 <br><br>
 
 <a href="https://linkedin.com/in/sera-liz-david-6842a8327">
