@@ -17,10 +17,10 @@ Passionate about building user-friendly applications, learning modern technologi
 Hi, I'm **Sera Liz David**, a Computer Science Engineering student at **Amal Jyothi College of Engineering, Kanjirappally**.
 
 🌱 Learning Flutter & Dart
-📱 Interested in Mobile Application Development
+🌐 Passionate about Web & Mobile Application Development
 🎨 Exploring UI/UX Design
 💻 Building projects to improve my technical skills
-🚀 Passionate about learning and growing as a developer
+🚀 Dedicated to learning and growing as a developer
 ☕ Runs on caffeine, code, and creativity
 
 ---
@@ -59,6 +59,7 @@ Hi, I'm **Sera Liz David**, a Computer Science Engineering student at **Amal Jyo
 
 ## 🌟 Areas of Interest
 
+🌐 Web Development
 📱 Mobile Application Development
 🎨 UI/UX Design
 💻 Software Development
@@ -124,7 +125,7 @@ Feel free to connect with me for collaborations, learning, and technology discus
 
 <div align="center">
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6cmNjdnd6cmw5bHd6cXNqd290bTN6dWd4N3VvZnM1eW96NmszdyZlcD12X2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6J7fdbK90fS6C6K216/giphy.gif" width="350" alt="Cozy Lofi Coding Animation"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1b3E1cmVpa3p5aW9hN216cmE3MnFsN3k1N2wwbTZuYXAzdGhpcyZlcD12X2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/unQ3IJU2rg7DO/giphy.gif" width="380" alt="Cozy Pixel Desk Animation"/>
 
 <br><br>
 
