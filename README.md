@@ -97,6 +97,14 @@ I am seeking opportunities where I can apply my technical knowledge, gain practi
 
 <div align="center">
 
+
+
+<br><br>
+
+
+
+<br><br>
+
 <a href="https://linkedin.com/in/sera-liz-david-6842a8327">
 <img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
