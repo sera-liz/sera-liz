@@ -8,7 +8,6 @@
 Passionate about building user-friendly applications, learning modern technologies, and creating meaningful digital experiences.
 </p>
 
-
 </div>
 
 ---
@@ -18,15 +17,10 @@ Passionate about building user-friendly applications, learning modern technologi
 Hi, I'm **Sera Liz David**, a Computer Science Engineering student at **Amal Jyothi College of Engineering, Kanjirappally**.
 
 🌱 Learning Flutter & Dart
-
 📱 Interested in Mobile Application Development
-
 🎨 Exploring UI/UX Design
-
 💻 Building projects to improve my technical skills
-
 🚀 Passionate about learning and growing as a developer
-
 ☕ Runs on caffeine, code, and creativity
 
 ---
@@ -34,9 +28,7 @@ Hi, I'm **Sera Liz David**, a Computer Science Engineering student at **Amal Jyo
 ## 🎓 Education
 
 **Bachelor of Technology (B.Tech)**
-
 **Computer Science & Engineering**
-
 🏫 Amal Jyothi College of Engineering, Kanjirappally
 
 ---
@@ -68,13 +60,9 @@ Hi, I'm **Sera Liz David**, a Computer Science Engineering student at **Amal Jyo
 ## 🌟 Areas of Interest
 
 📱 Mobile Application Development
-
 🎨 UI/UX Design
-
 💻 Software Development
-
 🗄️ Database Management
-
 🚀 Technology & Innovation
 
 ---
@@ -108,7 +96,7 @@ I am seeking opportunities where I can apply my technical knowledge, gain practi
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200" width="900"/>
+<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=900&auto=format&fit=crop" width="900" alt="Aesthetic Desktop Setup"/>
 
 <br><br>
 
@@ -136,14 +124,12 @@ Feel free to connect with me for collaborations, learning, and technology discus
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="300"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6cmNjdnd6cmw5bHd6cXNqd290bTN6dWd4N3VvZnM1eW96NmszdyZlcD12X2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6J7fdbK90fS6C6K216/giphy.gif" width="350" alt="Cozy Lofi Coding Animation"/>
 
 <br><br>
 
 💡 **Technology should be simple, accessible, and meaningful.**
-
 🧠 **Every bug is an opportunity to learn something new.**
-
 🚀 **Keep learning. Keep building. Keep growing.**
 
 </div>
