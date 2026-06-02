@@ -8,7 +8,6 @@
 Passionate about building user-friendly applications, learning modern technologies, and creating meaningful digital experiences.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Flutter+Developer;Computer+Science+Student;UI%2FUX+Design+Learner;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
