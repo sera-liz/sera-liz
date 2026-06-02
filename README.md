@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h2>Computer Science Engineering Student | Flutter Developer | UI Design Enthusiast</h2>
+<h2>Computer Science Engineering Student </h2>
 
 <p>
 Passionate about building user-friendly applications, learning modern technologies, and creating meaningful digital experiences.
