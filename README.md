@@ -97,14 +97,6 @@ I am seeking opportunities where I can apply my technical knowledge, gain practi
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=900&auto=format&fit=crop" width="900" alt="Aesthetic Desktop Setup"/>
-
-<br><br>
-
-Feel free to connect with me for collaborations, learning, and technology discussions.
-
-<br><br>
-
 <a href="https://linkedin.com/in/sera-liz-david-6842a8327">
 <img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
