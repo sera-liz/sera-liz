@@ -71,18 +71,18 @@ Hi, I'm **Sera Liz David**, a Computer Science Engineering student at **Amal Jyo
 ## 🌸 GitHub Insights
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sera-liz&show_icons=true&theme=rose_pine" alt="GitHub Stats" width="49%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sera-liz&layout=compact&theme=rose_pine" alt="Top Languages" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sera-liz&show_icons=true&theme=rose_pine" alt="GitHub Stats" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sera-liz&layout=compact&theme=rose_pine" alt="Top Languages" width="49%"/>
 </p>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=sera-liz&theme=rose_pine" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=sera-liz&theme=rose_pine" alt="GitHub Streak"/>
 </p>
 
 ### 📊 Contribution Graph
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sera-liz&theme=rose_pine&height=300" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sera-liz&theme=rose_pine&height=300" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -125,7 +125,7 @@ Feel free to connect with me for collaborations, learning, and technology discus
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1b3E1cmVpa3p5aW9hN216cmE3MnFsN3k1N2wwbTZuYXAzdGhpcyZlcD12X2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/unQ3IJU2rg7DO/giphy.gif" width="380" alt="Cozy Pixel Desk Animation"/>
+<img src="image_1.png" width="380" alt="Kid Coding Animation"/>
 
 <br><br>
 
