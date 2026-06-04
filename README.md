@@ -1,140 +1,27 @@
-# 🌸 Hi, I'm Sera Liz David
+# Hi, I'm Sera Liz David
 
-<div align="center">
+Computer Science Engineering Student at Amal Jyothi College of Engineering.
 
-<h2>Computer Science Engineering Student </h2>
+## About Me
 
-<p>
-Passionate about building user-friendly applications, learning modern technologies, and creating meaningful digital experiences.
-</p>
+- Pursuing B.Tech in Computer Science & Engineering
+- Interested in Mobile App Development, Web Development, and UI/UX Design
+- Building projects to improve my skills
 
-</div>
+## Skills
 
----
+**Languages:** C, Java, HTML, CSS, MySQL, Dart
 
-## 🌸 About Me
+**Tools & Technologies:** Flutter, Git, GitHub, VS Code, Figma
 
-Hi, I'm **Sera Liz David**, a Computer Science Engineering student at **Amal Jyothi College of Engineering, Kanjirappally**.
-
-🌱 Learning Flutter & Dart
-🌐 Passionate about Web & Mobile Application Development
-🎨 Exploring UI/UX Design
-💻 Building projects to improve my technical skills
-🚀 Dedicated to learning and growing as a developer
-☕ Runs on caffeine, code, and creativity
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology (B.Tech)**
-**Computer Science & Engineering**
-🏫 Amal Jyothi College of Engineering, Kanjirappally
-
----
-
-## 💻 Skills & Technologies
-
-### Programming Languages
-
-| Language | Icon |
-|-----------|------|
-| C | <img src="https://img.icons8.com/color/48/c-programming.png" width="30"/> |
-| Java | <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="30"/> |
-| HTML | <img src="https://img.icons8.com/color/48/html-5--v1.png" width="30"/> |
-| CSS | <img src="https://img.icons8.com/color/48/css3.png" width="30"/> |
-| MySQL | <img src="https://img.icons8.com/color/48/mysql-logo.png" width="30"/> |
-| Dart | <img src="https://img.icons8.com/color/48/dart.png" width="30"/> |
-
-### Frameworks & Tools
-
-| Tool | Icon |
-|--------|------|
-| Flutter | <img src="https://img.icons8.com/color/48/flutter.png" width="30"/> |
-| Figma | <img src="https://img.icons8.com/color/48/figma.png" width="30"/> |
-| VS Code | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="30"/> |
-| Git & GitHub | <img src="https://img.icons8.com/ios-filled/50/github.png" width="30"/> |
-
----
-
-## 🌟 Areas of Interest
-
-🌐 Web Development
-📱 Mobile Application Development
-🎨 UI/UX Design
-💻 Software Development
-🗄️ Database Management
-🚀 Technology & Innovation
-
----
-
-## 🌸 GitHub Insights
+## GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sera-liz&show_icons=true&theme=rose_pine" alt="GitHub Stats" width="49%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sera-liz&layout=compact&theme=rose_pine" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sera-liz&show_icons=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sera-liz&layout=compact" width="48%">
 </p>
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=sera-liz&theme=rose_pine" alt="GitHub Streak"/>
-</p>
+## Connect
 
-### 📊 Contribution Graph
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sera-liz&theme=rose_pine&height=300" alt="GitHub Activity Graph"/>
-</div>
-
----
-
-## 💼 Career Objective
-
-I am seeking opportunities where I can apply my technical knowledge, gain practical experience, learn from industry professionals, and contribute to building impactful software solutions while growing as a developer.
-
----
-
-## 💌 Let's Connect!
-
-<div align="center">
-
-<br><br>
-
-<a href="https://linkedin.com/in/sera-liz-david-6842a8327">
-<img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sera-liz">
-<img src="https://img.shields.io/badge/GitHub-F4A7B9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sera-liz&label=Profile%20Views&color=ffb6c1&style=flat" alt="Profile Views"/>
-
-</div>
-
----
-
-## 🌸 My Philosophy
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW81cjNkcXN5ZndwN3I2N2E0N3g5ZzZ0bWJncm85Z3VwMnYwYm81YiZlcD12X2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L13yI89O9Tjs32LJIF/giphy.gif" width="380" alt="Chibi Kid Coding Animation"/>
-
-<br><br>
-
-💡 **Technology should be simple, accessible, and meaningful.**
-🧠 **Every bug is an opportunity to learn something new.**
-🚀 **Keep learning. Keep building. Keep growing.**
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Learning • Building • Growing
-
-*"Success is built one project, one lesson, and one line of code at a time."*
-
-</div>
+- LinkedIn: https://linkedin.com/in/sera-liz-david-6842a8327
+- GitHub: https://github.com/sera-liz
