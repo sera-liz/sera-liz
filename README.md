@@ -9,7 +9,7 @@ Computer Science Engineering Student at Amal Jyothi College of Engineering.
 
 ## Skills
 
-**Languages:** C, Java, HTML, CSS, MySQL, Dart,python
+**Languages:** C, Java, HTML, CSS, MySQL, Dart, Python
 
 **Tools & Technologies:** Flutter, Git, GitHub, VS Code, Figma
 
