@@ -5,12 +5,11 @@ Computer Science Engineering Student at Amal Jyothi College of Engineering.
 ## About Me
 
 - Pursuing B.Tech in Computer Science & Engineering
-- Interested in Mobile App Development, Web Development, and UI/UX Design
 - Building projects to improve my skills
 
 ## Skills
 
-**Languages:** C, Java, HTML, CSS, MySQL, Dart
+**Languages:** C, Java, HTML, CSS, MySQL, Dart,python
 
 **Tools & Technologies:** Flutter, Git, GitHub, VS Code, Figma
 
