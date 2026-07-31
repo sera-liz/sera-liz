@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="banner.png" width="50%" alt="Banner"/>
+<img src="banner.png" width="65%" alt="Banner"/>
 
 # 🌸 Hi, I'm Sera Liz David
-
-### Flutter Developer • Frontend Developer 
-
-Building responsive applications with Flutter, React and modern web technologies.
+Building responsive applications with  modern web technologies.
 
 </div>
 
@@ -19,16 +16,12 @@ Name: Sera Liz David
 
 Focus:
   - Flutter Development
-  - Frontend Engineering
-  - Responsive UI Design
+  - Frontend Development
+  
 Interests:
   - Mobile Applications
-  - Web Development
-  - Clean UI/UX
-```
+  - Web Application
 
-
----
 
 # 💜 Tech Stack
 
@@ -37,14 +30,15 @@ Interests:
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,firebase"/>
 
 <br><br>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql"/>
+</p>
 
 <br><br>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma"/>
-
 </p>
+
 
 ---
 
@@ -66,7 +60,7 @@ Interests:
 
 ---
 
-# 🚀 Featured Projects
+# 🚀  Projects
 
 ### 💹 AI Trading Dashboard
 Modern trading dashboard built with **React**, **Next.js**, and real-time market visualization.
@@ -90,10 +84,8 @@ Personal finance management application built using Flutter.
 
 # 🌱 Currently Learning
 
-- React & Next.js
 - Firebase
-- Data Structures & Algorithms
-- Modern Frontend Development
+- Backend  Development
 
 ---
 
@@ -106,7 +98,7 @@ Personal finance management application built using Flutter.
 </a>
 
 &nbsp;&nbsp;&nbsp;
-
+<p align="center">
 <a href="https://github.com/sera-liz">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
