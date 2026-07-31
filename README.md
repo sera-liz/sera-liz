@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Banner"/>
+<img src="banner.png" width="50%" alt="Banner"/>
 
 # 🌸 Hi, I'm Sera Liz David
 
-### Flutter Developer • Frontend Developer • Computer Science Engineering Student
+### Flutter Developer • Frontend Developer 
 
 Building responsive applications with Flutter, React and modern web technologies.
 
@@ -17,27 +17,16 @@ Building responsive applications with Flutter, React and modern web technologies
 ```yaml
 Name: Sera Liz David
 
-Location: Kerala, India
-
-Education:
-  B.Tech in Computer Science Engineering
-
 Focus:
   - Flutter Development
   - Frontend Engineering
   - Responsive UI Design
-
-Currently Learning:
-  - React
-  - Next.js
-  - Firebase
-  - Data Structures & Algorithms
-
 Interests:
   - Mobile Applications
   - Web Development
   - Clean UI/UX
 ```
+
 
 ---
 
