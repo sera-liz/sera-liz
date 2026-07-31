@@ -2,15 +2,15 @@
 
 <img src="banner.png" width="65%" alt="Banner"/>
 
-# 🌸 Hi, I'm Sera Liz David
+# Hi, I'm Sera Liz David 🌷
 
-Building responsive applications with modern web technologies.
+☕ Coffee. 💻 Code. 🔁 Repeat.
 
 </div>
 
 ---
 
-# 🌷 About Me
+# About Me
 
 ```yaml
 Name: Sera Liz David
