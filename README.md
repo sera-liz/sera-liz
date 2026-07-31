@@ -28,9 +28,9 @@ Interests:
 
 # 💜 Tech Stack
 
-<p align="center">
+<p >
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,firebase"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase"/>
 
 <br><br>
 
