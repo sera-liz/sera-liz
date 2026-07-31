@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%"/>
+<img src="./sera-liz/banner.png" width="100%"/>
 
 # 🌸 Hi, I'm Sera Liz David
 
