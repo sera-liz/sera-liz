@@ -1,20 +1,13 @@
 <div align="center">
 
-
+<img src="banner.png" width="100%" alt="Banner"/>
 
 # 🌸 Hi, I'm Sera Liz David
 
-### `Flutter Developer` • `Frontend Developer` • `Computer Science Engineering Student`
+### Flutter Developer • Frontend Developer • Computer Science Engineering Student
 
-<p align="center">
-  <img src="banner.png/coding-girl.png" width="100%" alt="Coding Girl Banner"/>
-</p>
+Building responsive applications with Flutter, React and modern web technologies.
 
-<h1 align="center">Hi, I'm Sera Liz David 👋</h1>
-
-<p align="center">
-Flutter Developer • React Developer • Computer Science Engineering Student
-</p>
 </div>
 
 ---
@@ -27,21 +20,23 @@ Name: Sera Liz David
 Location: Kerala, India
 
 Education:
-  B.Tech Computer Science Engineering
+  B.Tech in Computer Science Engineering
 
-Passionate About:
-  - Flutter
-  - Frontend Development
-  - Modern UI Design
+Focus:
+  - Flutter Development
+  - Frontend Engineering
+  - Responsive UI Design
 
 Currently Learning:
   - React
   - Next.js
   - Firebase
-  - DSA
+  - Data Structures & Algorithms
 
-Fun Fact:
-  I enjoy turning ideas into beautiful user experiences.
+Interests:
+  - Mobile Applications
+  - Web Development
+  - Clean UI/UX
 ```
 
 ---
@@ -64,54 +59,56 @@ Fun Fact:
 
 ---
 
-# 🌸 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sera-liz&show_icons=true&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sera-liz&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sera-liz&layout=compact&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sera-liz&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=sera-liz&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sera-liz&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-# ✨ Featured Projects
+# 🚀 Featured Projects
 
-| 💻 Project           | ⚡ Tech             |
-| -------------------- | ------------------ |
-| Liz Shop             | Flutter • Firebase |
-| AI Trading Dashboard | React • Next.js    |
-| Food Delivery App    | Flutter            |
-| Expense Tracker      | Flutter            |
+### 💹 AI Trading Dashboard
+Modern trading dashboard built with **React**, **Next.js**, and real-time market visualization.
 
 ---
 
-# 🌱 Currently Exploring
-
-* ⚛️ React Ecosystem
-
-* 🔥 Firebase
-
-* 🚀 Full Stack Development
-
-* 🎨 UI/UX Design
+### 🛍️ Liz Shop
+Flutter e-commerce application with Firebase Authentication and Firestore integration.
 
 ---
 
-# 🌙 Daily Reminder
-
-> *"Consistency beats intensity."*
+### 🍔 Food Delivery App
+Cross-platform Flutter application featuring a modern ordering experience.
 
 ---
 
-# 💌 Let's Connect
+### 💰 Expense Tracker
+Personal finance management application built using Flutter.
+
+---
+
+# 🌱 Currently Learning
+
+- React & Next.js
+- Firebase
+- Data Structures & Algorithms
+- Modern Frontend Development
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -119,7 +116,7 @@ Fun Fact:
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-  
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/sera-liz">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -131,7 +128,7 @@ Fun Fact:
 
 <div align="center">
 
-### 🌸 Thanks for visiting! 🌸
+### Thanks for visiting 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C084FC&height=120&section=footer"/>
 
