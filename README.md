@@ -20,7 +20,7 @@ Focus:
   
 Interests:
   - Mobile Applications
-  - Web Application
+  - Web Applications
 
 
 # 💜 Tech Stack
