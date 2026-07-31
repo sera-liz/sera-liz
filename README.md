@@ -111,7 +111,11 @@ Personal finance management application built using Flutter.
 </p>
 
 ---
+<p align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sera-liz&theme=github-compact&hide_border=true"/>
+
+</p>
 <div align="center">
 
 ### Thanks for visiting 👋
