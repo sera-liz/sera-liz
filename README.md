@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="65%" alt="Banner"/>
+<img src="banner.png" width="75%" alt="Banner"/>
 
 # Hi, I'm Sera Liz David 🌷
 
@@ -26,18 +26,15 @@ Interests:
 
 ---
 
-# 💜 Tech Stack
+# Tech Stack
 
-<p >
+<p align="center" >
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase,python,java,c,js,html,css,mysq"/>
 
-<br><br>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql"/>
-
-<br><br>
-
+<p align="center" >
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma"/>
 
 </p>
@@ -62,7 +59,7 @@ Interests:
 
 ---
 
-# 🚀 Projects
+# Projects
 
 ### 💹 AI Trading Dashboard
 
@@ -103,7 +100,9 @@ Personal finance management application built using Flutter.
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+</p>
 &nbsp;&nbsp;&nbsp;
+<p align="center">
 
 <a href="https://github.com/sera-liz">
 <img src="https://skillicons.dev/icons?i=github"/>
