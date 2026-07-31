@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./sera-liz/banner.png" width="100%"/>
+
 
 # 🌸 Hi, I'm Sera Liz David
 
 ### `Flutter Developer` • `Frontend Developer` • `Computer Science Engineering Student`
 
 <p align="center">
-  <img src="./assets/coding-girl.png" width="100%" alt="Coding Girl Banner"/>
+  <img src="banner.png/coding-girl.png" width="100%" alt="Coding Girl Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Sera Liz David 👋</h1>
