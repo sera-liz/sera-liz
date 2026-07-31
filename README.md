@@ -3,7 +3,8 @@
 <img src="banner.png" width="65%" alt="Banner"/>
 
 # 🌸 Hi, I'm Sera Liz David
-Building responsive applications with  modern web technologies.
+
+Building responsive applications with modern web technologies.
 
 </div>
 
@@ -17,11 +18,13 @@ Name: Sera Liz David
 Focus:
   - Flutter Development
   - Frontend Development
-  
+
 Interests:
   - Mobile Applications
   - Web Applications
+```
 
+---
 
 # 💜 Tech Stack
 
@@ -30,15 +33,14 @@ Interests:
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,firebase"/>
 
 <br><br>
-<p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql"/>
-</p>
 
 <br><br>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma"/>
-</p>
 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma"/>
+
+</p>
 
 ---
 
@@ -60,24 +62,28 @@ Interests:
 
 ---
 
-# 🚀  Projects
+# 🚀 Projects
 
 ### 💹 AI Trading Dashboard
+
 Modern trading dashboard built with **React**, **Next.js**, and real-time market visualization.
 
 ---
 
 ### 🛍️ Liz Shop
-Flutter e-commerce application with Firebase Authentication and Firestore integration.
+
+Flutter e-commerce application with **Firebase Authentication** and **Cloud Firestore** integration.
 
 ---
 
 ### 🍔 Food Delivery App
+
 Cross-platform Flutter application featuring a modern ordering experience.
 
 ---
 
 ### 💰 Expense Tracker
+
 Personal finance management application built using Flutter.
 
 ---
@@ -85,7 +91,7 @@ Personal finance management application built using Flutter.
 # 🌱 Currently Learning
 
 - Firebase
-- Backend  Development
+- Backend Development
 
 ---
 
@@ -98,7 +104,7 @@ Personal finance management application built using Flutter.
 </a>
 
 &nbsp;&nbsp;&nbsp;
-<p align="center">
+
 <a href="https://github.com/sera-liz">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
