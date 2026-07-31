@@ -6,8 +6,15 @@
 
 ### `Flutter Developer` • `Frontend Developer` • `Computer Science Engineering Student`
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Building+beautiful+digital+experiences...;Flutter+%7C+React+%7C+Next.js;Always+learning+something+new+%F0%9F%92%9C"/>
+<p align="center">
+  <img src="./assets/coding-girl.png" width="100%" alt="Coding Girl Banner"/>
+</p>
 
+<h1 align="center">Hi, I'm Sera Liz David 👋</h1>
+
+<p align="center">
+Flutter Developer • React Developer • Computer Science Engineering Student
+</p>
 </div>
 
 ---
