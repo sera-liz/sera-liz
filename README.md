@@ -8,10 +8,7 @@
 <p align="center">
   <a href="https://github.com/sera-liz">
     <img src="https://komarev.com/ghpvc/?username=sera-liz&style=for-the-badge&color=blueviolet" />
-  </a>
-  <a href="https://github.com/sera-liz?tab=followers">
-    <img src="https://img.shields.io/github/followers/sera-liz?style=for-the-badge&color=blueviolet" />
-  </a>
+  
   <a href="https://github.com/sera-liz?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-Explore-8A2BE2?style=for-the-badge" />
   </a>
