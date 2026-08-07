@@ -67,7 +67,7 @@ Modern trading dashboard built with **React**, **Next.js**, and real-time market
 
 ---
 
-### 🛍️ Liz Shop
+### 🛍️ Velora 
 
 Flutter e-commerce application with **Firebase Authentication** and **Cloud Firestore** integration.
 
